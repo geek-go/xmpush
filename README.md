@@ -1,6 +1,7 @@
 # xmpush
 小米推送SDK
 
+[![GoDoc](https://godoc.org/github.com/geek-go/xmpush?status.svg)](https://godoc.org/github.com/geek-go/xmpush)
 
 由于官方没有推出Go版本的推送SDK，故自己实现了。支持：
 
