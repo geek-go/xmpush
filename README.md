@@ -3,7 +3,6 @@
 
 ![](https://img.shields.io/badge/build-passing-brightgreen.svg?maxAge=2592000)
 [![Software License](http://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
-[![GoDoc](https://godoc.org/github.com/geek-go/xmpush?status.svg)](https://godoc.org/github.com/geek-go/xmpush)
 
 由于官方没有推出Go版本的推送SDK，故自己实现了。支持：
 
@@ -36,7 +35,7 @@ go test -v  -run="^TestXmPush_SendAll$"
 > 测试用例里针对SDK进行了一些封装，大家可以参考快速实现。
 
 ## 文档参考
-https://godoc.org/github.com/geek-go/xmpush
+https://pkg.go.dev/github.com/geek-go/xmpush
 
 
 ## 如何参与该项目
