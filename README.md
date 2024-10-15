@@ -3,6 +3,7 @@
 
 ![](https://img.shields.io/badge/build-passing-brightgreen.svg?maxAge=2592000)
 [![Software License](http://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![GoDoc](https://godoc.org/github.com/geek-go/xmpush?status.svg)](https://godoc.org/github.com/geek-go/xmpush)
 
 由于官方没有推出Go版本的推送SDK，故自己实现了。支持：
 
